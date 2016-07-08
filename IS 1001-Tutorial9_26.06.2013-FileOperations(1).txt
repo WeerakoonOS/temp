@@ -1,0 +1,46 @@
+IS 1001 – Programming and Problem Solving – Tutorial 9 
+
+Python-Programming-Language.png 
+
+
+File Operations 
+
+Create a file called, TimeSheet.txt and type the following data set. (The file contains the time durations 
+in seconds that 5 runners recorded in their practice sessions.) 
+Sumali 10 34 50 29 50 75 
+Nimali 21 60 80 22 80 29 70 40 70 
+Sunila 60 38 69 29 79 
+Wimala 50 68 43 69 79 20 58 79 38 37 
+Kamala 65 87 54 67 34 76 34 
+
+
+1. Find the runners who did more than seven practice sessions and display with their names in the 
+Python shell. 
+
+
+ 
+
+2. Find the minimum time taken by each runner and display it along with her name in the Python 
+shell. 
+
+
+ 
+
+3. Find the average time of every runner and write it to another file called AverageTime.txt along 
+with the runner’s name. 
+
+
+ 
+
+4. Read the AverageTime.txt file and find the runner who has taken the minimum time in the 
+practice sessions. 
+
+
+ 
+Reference 
+
+http://interactivepython.org/courselib/static/thinkcspy/Files/files.html#reading-a-file 
+
+ 
+
+
